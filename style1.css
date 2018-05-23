@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto+Slab');
+*{
+  font-family: 'Roboto Slab', serif;
+}
+body{
+	background-color: #607D8B;
+}
+.panel-default{
+	min-height:300px;
+}
+#sub{
+	text-decoration: none;
+}
